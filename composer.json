@@ -1,10 +1,10 @@
 {
-    "name": "yangyongxu/redis",
+    "name": "webolc/redis",
     "description": "redis",
     "type": "library",
     "authors": [
         {
-            "name": "yangyongxu",
+            "name": "webolc",
             "email": "516705893@qq.com"
         }
     ],
@@ -12,7 +12,7 @@
     "minimum-stability": "dev",
     "autoload": {
     	"psr-4": {
-      		"yangyongxu\\redis\\": "src/"
+      		"webolc\\redis\\": "src/"
     	}
   	}
 }
