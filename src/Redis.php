@@ -1,5 +1,5 @@
 <?php
-namespace yangyongxu\redis;
+namespace webolc\redis;
 
 /**
  * redis操作类
